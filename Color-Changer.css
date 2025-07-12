@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.canvas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.canvas #grey {
+    background-color: grey;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+}
+
+.canvas #white {
+    background-color: whitesmoke;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+}
+
+.canvas #blue {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+}
+
+.canvas #yellow {
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+}
